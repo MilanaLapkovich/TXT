@@ -1,0 +1,6 @@
+My_skills:
+  API: Postman
+  terminal: Git_Bash
+  sniffing: Charles
+  web: DevTools
+  databases: SQL

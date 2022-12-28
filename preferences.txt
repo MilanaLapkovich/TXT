@@ -1,0 +1,6 @@
+My_preferences:
+  favorite_film: "Leon"
+  favorite_series: "Games_of_Thrones"
+  favorite_meal: mango
+  favorite_season: summer
+  country_to_visit: Spain

@@ -1,6 +1,6 @@
-{"information":
- {"first_name": "Milana",
-  "last_name": "Lapkovich",
-  "age": 40,
-  "pets_quantity": 1,
-  "desired_salary": "2000$[A[A[A[A[A[D[D[D[D[D[D[D[D[D[D[D[[3~[[D[D[D[D[D[D[D[D[D[D[B[C[C[B[A[C[C[C[C[C[C[C[C[C[C[C[C[[C:[[C:[B[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[B[D[D[D[D[D[D[D[D[D[D[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[[D[D:[B[[D[D[D[D:[D[D[D[[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:[D[D[D[D[D[D[D[D[D[D[D[D[D[[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[:[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D
+information:
+first_name: Milana
+last_name: Lapkovich
+age: 40
+pets_quantity: 
+desired_salary: 2000$

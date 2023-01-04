@@ -16,3 +16,22 @@ Bug_report
  Priority: Low
  Attachments: "_"
  Reproducible: "_"
+Bug_report
+ 
+ ID: B001
+ Summary: Profile module: button 'Share stories in Instagram' is disable when clicking on it
+ Description: Tango mobile app. Android 8.0.0
+ Requirement_ID: R05
+ Actual_result: Button 'Instagram History' does not react to pressing, nothing is opened
+ Expected_result: Popup window is opened to make next step for sharing on Instagram app
+ 
+ STR
+      1.In the 'My profile' tab, click on the profile icon
+      2.In the window that is opened select the icon 'Share with'
+	  3.Press on button 'Instagram Stories'
+
+ Severity: major
+ Priority: Low
+ Attachments: "_"
+ Reproducible:[A[C[[[A[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6~[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C..[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[D[D[D[D[D[D[D[D[D[D[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C

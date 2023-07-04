@@ -1,7 +1,7 @@
 Bug_report
  
  ID: B001
- Summary: Profile module: button 'Share stories in Instagram' is disable when clicking on it
+ Summary: Profile module: button 'Share stories in Instagram' is disabled when clicking on it
  Description: Tango mobile app. Android 8.0.0
  Requirement_ID: R05
  Actual_result: Button 'Instagram History' does not react to pressing, nothing is opened
